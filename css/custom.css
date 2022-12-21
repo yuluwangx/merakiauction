@@ -1,0 +1,15 @@
+/* Any custom CSS you would like to specify for your site can go here. */
+
+.error {
+  background: red;
+  color: #ffffff;
+  padding: 5px;
+  margin-bottom: 20px;
+}
+
+.success {
+  background: green;
+  color: #00ff00;
+  padding: 5px;
+  margin-bottom: 20px;
+}
